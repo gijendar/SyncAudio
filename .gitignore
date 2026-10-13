@@ -1,0 +1,11 @@
+node_modules/
+dist/
+client/dist/
+.env
+.env.local
+.env.production
+.syncaudio-uploads/
+*.log
+.DS_Store
+*.pid
+pm2.log
